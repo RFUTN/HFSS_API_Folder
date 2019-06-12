@@ -26,6 +26,6 @@ f = W/(2*tan(theta));
 % Frequency work.
 fr = 8.4e9; % Hz
 % Speed of ligth.
-c = 3e11; % m/s
+c = 3e11; % mm/s
 % Wave number in void.
 k0 = 2*pi*(fr/c); % 1/m
